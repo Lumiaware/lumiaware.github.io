@@ -65,6 +65,6 @@ nav .current > a {
 .selected a {
     color: #fff;
 }
-.dialogWidth {
-    maxwidth: 600px;
+.dialogwidth {
+    max-width: 600px;
 }
